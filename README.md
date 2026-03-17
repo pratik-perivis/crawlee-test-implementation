@@ -25,7 +25,7 @@ The crawler uses two handlers:
 **Clone the repo:**
 ```bash
 git clone <repo-url>
-cd test-crawlee
+cd crawlee-test-implementation
 ```
 
 **Install dependencies using uv:**
